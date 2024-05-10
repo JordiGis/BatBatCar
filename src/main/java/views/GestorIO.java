@@ -1,4 +1,4 @@
-package es.progcipfpbatoi.views;
+package views;
 
 /**
  * IMPORTANTE: Esta clase está dedicada para la entrada información por parte

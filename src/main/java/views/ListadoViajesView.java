@@ -1,4 +1,4 @@
-package es.progcipfpbatoi.views;
+package views;
 
 /**
  * Vista dedicada a los listados de viajes. De cada viaje se muestra su código,
@@ -7,7 +7,8 @@ package es.progcipfpbatoi.views;
  */
 import de.vandermeer.asciitable.AsciiTable;
 import de.vandermeer.skb.interfaces.transformers.textformat.TextAlignment;
-import es.progcipfpbatoi.model.entities.Viaje;
+import entidades.Viaje;
+
 import java.util.List;
 
 public class ListadoViajesView {

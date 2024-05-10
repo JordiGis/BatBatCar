@@ -1,6 +1,7 @@
-package es.progcipfpbatoi.model.managers;
+package gestores;
 
-import es.progcipfpbatoi.model.entities.Viaje;
+import entidades.Viaje;
+
 import java.util.ArrayList;
 import java.util.List;
 

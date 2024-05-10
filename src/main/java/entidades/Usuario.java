@@ -1,4 +1,4 @@
-package es.progcipfpbatoi.model.entities;
+package entidades;
 
 /**
  *

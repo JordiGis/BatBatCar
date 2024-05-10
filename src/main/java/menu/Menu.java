@@ -1,6 +1,6 @@
-package es.progcipfpbatoi.menu;
+package menu;
 
-import es.progcipfpbatoi.controller.ViajesController;
+import controladores.ViajesController;
 
 /**
  * Clase que gestiona el menú de opciones. A partir de esta clase se ejecutan

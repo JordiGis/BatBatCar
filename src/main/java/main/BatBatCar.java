@@ -1,5 +1,5 @@
-package es.progcipfpbatoi;
-import es.progcipfpbatoi.menu.Menu;
+package main;
+import menu.Menu;
 /**
  * Clase principal.
  * 
